@@ -40,16 +40,6 @@ int main()
     {
         cout << "немає розв'язків\n";
     }
-
-    system("pause");
-    return 0;
 }
-	
-
-
-
-
-
-
 
 
