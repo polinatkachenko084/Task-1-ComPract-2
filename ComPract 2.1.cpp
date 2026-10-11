@@ -19,7 +19,7 @@ int main()
 
     bool cond1 = (x < 0);
     bool cond2 = (x > 1.4);
-    bool cond3 = (x >= 0 && x <= 1.4);
+    bool cond3 = (x <= 0 && x <= 1.4);
 
     if (cond1 == true)
     {
